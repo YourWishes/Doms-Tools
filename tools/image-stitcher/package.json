@@ -1,0 +1,9 @@
+{
+  "name": "image-stitcher",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "pngjs": "^6.0.0"
+  }
+}
